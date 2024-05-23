@@ -8,7 +8,7 @@ Como recién egresado de la carrera de Ingeniería en Sistemas Computacionales, 
 *   
 * ✉️ Puedes ponerte en contacto conmigo en [ing.josejuangallegos@gmail.com](mailto:ing.josejuangallegos@gmail.com)
 
-## LENGUAJES A DOMINAR 
+## Competencias
 <table><tr><td valign="top" width="33%">
 
 
