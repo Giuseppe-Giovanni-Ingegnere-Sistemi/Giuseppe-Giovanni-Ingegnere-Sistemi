@@ -9,7 +9,7 @@ Como recién egresado de la carrera de Ingeniería en Sistemas Computacionales, 
 
 * ✉️ Puedes ponerte en contacto conmigo en [ing.josejuangallegos@gmail.com](mailto:ing.josejuangallegos@gmail.com)
 
-![Banner de Giuseppe-Giovanni](Información general José Juan (1).png)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ0aGF5emR5MXRoNHMxY2JvdGVidGJwZXk3bmZoMjJuOGdraWVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axnFGXT6MzvgY/giphy.gif" width="250"/>
 
 ## Competencias
 <table><tr><td valign="top" width="33%">
