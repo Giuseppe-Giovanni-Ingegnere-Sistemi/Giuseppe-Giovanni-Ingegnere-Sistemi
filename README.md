@@ -1,15 +1,18 @@
+<div style="text-align: center;">
+    <img src="BAN.png" alt="Banner de Giuseppe-Giovanni" width="800"/>
+</div>
+
 
 Bienvenid@ a Giuseppe-Giovanni-Ingegnere-Sistemi
-
-
-
-![Banner de Giuseppe-Giovanni](BAN.png)
 
 Como recién egresado de la carrera de Ingeniería en Sistemas Computacionales, mi enfoque principal reside en el desarrollo de aplicaciones web y la programación, además del manejo de diversos sistemas operativos. Mi formación académica me ha dotado de habilidades sólidas en el diseño, implementación y optimización de sistemas informáticos, así como en la resolución de problemas complejos relacionados con la tecnología de la información.
 
 * ✉️ Puedes ponerte en contacto conmigo en [ing.josejuangallegos@gmail.com](mailto:ing.josejuangallegos@gmail.com)
+<div style="text-align: center;">
+    <img src="Información general José Juan (1).png" width="250"/>
+</div>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ0aGF5emR5MXRoNHMxY2JvdGVidGJwZXk3bmZoMjJuOGdraWVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axnFGXT6MzvgY/giphy.gif" width="250"/>
+
 
 ## Competencias
 <table><tr><td valign="top" width="33%">
