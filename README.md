@@ -1,11 +1,10 @@
-<!-- <div style="text-align: center;">
-    <img src="BAN.png" alt="Banner de Giuseppe-Giovanni" width="800"/>
-</div>-->
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+<div style="text-align: center;">
+    <img src="JJ.png" alt="Banner de Giuseppe-Giovanni" width="800"/>
 </div>
+
+
+
 
 Ingeniero en Sistemas Computacionales especializado en desarrollo web full-stack. Experiencia en diseño y desarrollo de aplicaciones web. Conocimientos en bases de datos relacionales y no relacionales. Habilidad para trabajar en equipos multidisciplinarios y entregar proyectos de forma puntal y eficaz.
 
