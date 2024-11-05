@@ -6,7 +6,7 @@
 
 
 
-###Egresado de la carrera de Ingeniería en Sistemas Computacionales de Universidad CUGS en 2024
+**Egresado de la carrera de Ingeniería en Sistemas Computacionales de Universidad CUGS en 2024**
 
 Poseo una base en desarrollo web, con experiencia en tecnologías front-end como JavaScript (React, Angular), HTML, CSS (incluyendo TailwindCSS) y  back-end como PHP y Python.  He trabajado con bases de datos relacionales como MySQL y PostgreSQL, así como con la base de datos no relacional MongoDB.
 
