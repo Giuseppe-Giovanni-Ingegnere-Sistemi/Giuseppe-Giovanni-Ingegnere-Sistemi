@@ -12,7 +12,7 @@
 &nbsp; &nbsp;(incluyendo TailwindCSS)** y  back-end como **PHP y Python**.  He trabajado con bases de datos relacionales como **MySQL y PostgreSQL**, 
 &nbsp; &nbsp;así como con la base de datos no relacional **MongoDB**.
 
-&nbsp; &nbsp;Si bien mi experiencia con APIs RESTful es limitada, estoy familiarizado con el desarrollo web back-end y  entusiasmado por aprender 
+&nbsp;Si bien mi experiencia con APIs RESTful es limitada, estoy familiarizado con el desarrollo web back-end y  entusiasmado por aprender 
 &nbsp; &nbsp;nuevas tecnologías.
 
 &nbsp; &nbsp;Cuento con experiencia en el diseño de interfaces de usuario (UI) y experiencia de usuario (UX), utilizando herramientas como Figma.
