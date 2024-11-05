@@ -35,7 +35,7 @@ Para asegurar la entrega puntual de proyectos, realizo una estimación del tiemp
 
 
 
-## Competencias
+# Competencias
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,7 +71,7 @@ Para asegurar la entrega puntual de proyectos, realizo una estimación del tiemp
 
 </td></tr></table>  
 
-### Otras Habilidades
+# Otras Habilidades
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 
@@ -83,7 +83,7 @@ Para asegurar la entrega puntual de proyectos, realizo una estimación del tiemp
 <!--![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) --> 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Redes Sociales
+# Redes Sociales
 
 <a href="https://www.linkedin.com/in/jose-juan-gallegos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
