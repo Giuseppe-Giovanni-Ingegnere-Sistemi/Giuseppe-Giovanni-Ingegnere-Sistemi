@@ -8,18 +8,22 @@
 
 ### **Egresado de la carrera de Ingeniería en Sistemas Computacionales de Universidad CUGS en 2024**
 
-&nbsp; &nbsp; Poseo una base en desarrollo web, con experiencia en tecnologías front-end como **JavaScript (React, Angular), HTML, CSS 
-&nbsp; &nbsp;(incluyendo TailwindCSS)** y  back-end como **PHP y Python**.  He trabajado con bases de datos relacionales como **MySQL y PostgreSQL**, así como con la base de datos no relacional **MongoDB**.
+&nbsp; &nbsp;Poseo una base en desarrollo web, con experiencia en tecnologías front-end como **JavaScript (React, Angular), HTML, CSS 
+&nbsp; &nbsp;(incluyendo TailwindCSS)** y  back-end como **PHP y Python**.  He trabajado con bases de datos relacionales como **MySQL y PostgreSQL**, 
+&nbsp; &nbsp;así como con la base de datos no relacional **MongoDB**.
 
-Si bien mi experiencia con APIs RESTful es limitada, estoy familiarizado con el desarrollo web back-end y  entusiasmado por aprender nuevas tecnologías.
+&nbsp; &nbsp;Si bien mi experiencia con APIs RESTful es limitada, estoy familiarizado con el desarrollo web back-end y  entusiasmado por aprender 
+&nbsp; &nbsp;nuevas tecnologías.
 
-Cuento con experiencia en el diseño de interfaces de usuario (UI) y experiencia de usuario (UX), utilizando herramientas como Figma.
+&nbsp; &nbsp;Cuento con experiencia en el diseño de interfaces de usuario (UI) y experiencia de usuario (UX), utilizando herramientas como Figma.
 
-Además, estoy familiarizado con herramientas de desarrollo como **Git y Docker**, y metodologías ágiles como **Scrum y Kanban**.
+&nbsp; &nbsp;Además, estoy familiarizado con herramientas de desarrollo como **Git y Docker**, y metodologías ágiles como **Scrum y Kanban**.
 
 ### **Experiencia en el desarrollo de una página web para el alta de avalúos:**
 
-Durante mi servicio social, participé en el desarrollo de una página web para el registro de avalúos.  En este proyecto, colaboré con otros programadores en un equipo multidisciplinario que incluía al área encargada de proporcionar la documentación para el diseño y desarrollo del sistema.  Utilizamos HTML, PHP, CSS y SQL Server para construir la aplicación.
+&nbsp; &nbsp;Durante mi servicio social, participé en el desarrollo de una página web para el registro de avalúos.  En este proyecto, colaboré con otros 
+&nbsp; &nbsp;programadores en un equipo multidisciplinario que incluía al área encargada de proporcionar la documentación para el diseño y 
+&nbsp; &nbsp;desarrollo del sistema.  Utilizamos HTML, PHP, CSS y SQL Server para construir la aplicación.
 
 ### **Entrega puntual de proyectos:**
 
