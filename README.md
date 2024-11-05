@@ -3,7 +3,9 @@
 </div>-->
 
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 
 Ingeniero en Sistemas Computacionales especializado en desarrollo web full-stack. Experiencia en diseño y desarrollo de aplicaciones web. Conocimientos en bases de datos relacionales y no relacionales. Habilidad para trabajar en equipos multidisciplinarios y entregar proyectos de forma puntal y eficaz.
 
@@ -67,7 +69,8 @@ Ingeniero en Sistemas Computacionales especializado en desarrollo web full-stack
 <a href="https://www.linkedin.com/in/jose-juan-gallegos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+
 
 
 
