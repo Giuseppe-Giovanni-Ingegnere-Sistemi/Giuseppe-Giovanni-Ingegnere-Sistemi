@@ -15,11 +15,11 @@
 &nbsp;Si bien mi experiencia con APIs RESTful es limitada, estoy familiarizado con el desarrollo web back-end y  entusiasmado por aprender 
 &nbsp; &nbsp;nuevas tecnologías.
 
-&nbsp; &nbsp;Cuento con experiencia en el diseño de interfaces de usuario (UI) y experiencia de usuario (UX), utilizando herramientas como Figma.
+&nbsp;Cuento con experiencia en el diseño de interfaces de usuario (UI) y experiencia de usuario (UX), utilizando herramientas como Figma.
 
-&nbsp; &nbsp;Además, estoy familiarizado con herramientas de desarrollo como **Git y Docker**, y metodologías ágiles como **Scrum y Kanban**.
+&nbsp;Además, estoy familiarizado con herramientas de desarrollo como **Git y Docker**, y metodologías ágiles como **Scrum y Kanban**.
 
-### **Experiencia en el desarrollo de una página web para el alta de avalúos:**
+## **Experiencia en el desarrollo de una página web para el alta de avalúos:**
 
 &nbsp; &nbsp;Durante mi servicio social, participé en el desarrollo de una página web para el registro de avalúos.  En este proyecto, colaboré con otros 
 &nbsp; &nbsp;programadores en un equipo multidisciplinario que incluía al área encargada de proporcionar la documentación para el diseño y 
