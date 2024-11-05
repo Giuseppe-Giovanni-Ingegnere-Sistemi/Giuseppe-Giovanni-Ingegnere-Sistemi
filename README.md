@@ -8,22 +8,15 @@
 
 ## **Egresado de la carrera de Ingeniería en Sistemas Computacionales de Universidad CUGS en 2024**
 
-Poseo una base en desarrollo web, con experiencia en tecnologías front-end como **JavaScript (React, Angular), HTML, CSS 
-(incluyendo TailwindCSS)** y  back-end como **PHP y Python**.  He trabajado con bases de datos relacionales como **MySQL y PostgreSQL**, 
-así como con la base de datos no relacional **MongoDB**.
+Tengo experiencia en desarrollo web front-end **(JavaScript, React, Angular, HTML, CSS, TailwindCSS)** y back-end **(PHP, Python)**, además de manejo de bases de datos relacionales **(MySQL, PostgreSQL)** y no relacionales **(MongoDB)**.
 
-Si bien mi experiencia con APIs RESTful es limitada, estoy familiarizado con el desarrollo web back-end y  entusiasmado por aprender 
-nuevas tecnologías.
+Aunque mi experiencia con APIs RESTful es inicial, conozco el desarrollo back-end y estoy motivado a aprender nuevas tecnologías. También manejo **diseño de interfaces (UI)** y **experiencia de usuario (UX) con Figma**.
 
-Cuento con experiencia en el diseño de interfaces de usuario (UI) y experiencia de usuario (UX), utilizando herramientas como Figma.
-
-Además, estoy familiarizado con herramientas de desarrollo como **Git y Docker**, y metodologías ágiles como **Scrum y Kanban**.
+Estoy familiarizado con **Git, Docker**, y metodologías ágiles como **Scrum y Kanban**.
 
 ## **Experiencia en el desarrollo de una página web para el alta de avalúos:**
 
-Durante mi servicio social, participé en el desarrollo de una página web para el registro de avalúos.  En este proyecto, colaboré con otros 
-programadores en un equipo multidisciplinario que incluía al área encargada de proporcionar la documentación para el diseño y 
-desarrollo del sistema.  Utilizamos HTML, PHP, CSS y SQL Server para construir la aplicación.
+Durante mi servicio social, participé en el desarrollo de una página web para el registro de avalúos.  En este proyecto, colaboré con otros programadores en un equipo multidisciplinario que incluía al área encargada de proporcionar la documentación para el diseño y desarrollo del sistema.  Utilizamos **HTML, PHP, CSS y SQL Server** para construir la aplicación.
 
 ## **Entrega puntual de proyectos:**
 
