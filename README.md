@@ -8,7 +8,8 @@
 
 ### **Egresado de la carrera de Ingeniería en Sistemas Computacionales de Universidad CUGS en 2024**
 
-&nbsp; &nbsp; Poseo una base en desarrollo web, con experiencia en tecnologías front-end como **JavaScript (React, Angular), HTML, CSS (incluyendo TailwindCSS)** y  back-end como **PHP y Python**.  He trabajado con bases de datos relacionales como **MySQL y PostgreSQL**, así como con la base de datos no relacional **MongoDB**.
+&nbsp; &nbsp; Poseo una base en desarrollo web, con experiencia en tecnologías front-end como **JavaScript (React, Angular), HTML, CSS 
+&nbsp; &nbsp;(incluyendo TailwindCSS)** y  back-end como **PHP y Python**.  He trabajado con bases de datos relacionales como **MySQL y PostgreSQL**, así como con la base de datos no relacional **MongoDB**.
 
 Si bien mi experiencia con APIs RESTful es limitada, estoy familiarizado con el desarrollo web back-end y  entusiasmado por aprender nuevas tecnologías.
 
