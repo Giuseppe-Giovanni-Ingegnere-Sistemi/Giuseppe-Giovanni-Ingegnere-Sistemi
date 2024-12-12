@@ -25,8 +25,6 @@ Mi filosofía es clara: cada línea de código, cada proyecto y cada aprendizaje
 </div> -->
 
 
-### Skills
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
